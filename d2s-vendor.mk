@@ -92,13 +92,10 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     gatekeeper.exynos9825 \
-    gralloc.exynos9825 \
-    hwcomposer.exynos9825 \
     libTOFProc_interface \
     libbauthserver \
     libbauthtzcommon \
     libdatazip \
-    libexynosdisplay \
     libiu456_datapath_processor \
     sensors.bio \
     sensors.sensorhub \
